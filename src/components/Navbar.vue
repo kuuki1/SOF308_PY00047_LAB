@@ -1,7 +1,7 @@
 <!-- NavBar.vue -->
 <template>
   <nav>
-    <h1>Nav Bar</h1>
+    <h1>LAB_PY00047</h1>
     <ul>
       <li><router-link to="/lab1">Lab1</router-link></li>
       <li><router-link to="/lab2">Lab2</router-link></li>
