@@ -1,10 +1,12 @@
 <!-- NavBar.vue -->
 <template>
   <nav>
-    <h1>LAB_PY00047</h1>
+    <h1>PY00047_LAB</h1>
     <ul>
       <li><router-link to="/lab1">Lab1</router-link></li>
       <li><router-link to="/lab2">Lab2</router-link></li>
+      <li><router-link to="/lab3">Lab3</router-link></li>
+      <!-- <li><router-link to="/postdetail">PostDetail</router-link></li> -->
     </ul>
   </nav>
 </template>
