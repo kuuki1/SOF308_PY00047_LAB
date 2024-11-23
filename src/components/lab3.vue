@@ -20,7 +20,7 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <!-- Mục Bài viết với biểu tượng -->
               <li class="nav-item">
-                <router-link class="nav-link" to="/post">
+                <router-link class="nav-link" to="/postdetail">
                 <i class="bi bi-list"></i> Bài viết
               </router-link>
               </li>
